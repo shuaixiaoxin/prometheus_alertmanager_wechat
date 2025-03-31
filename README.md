@@ -25,7 +25,7 @@
 ### 安装步骤
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourname/prometheus_alertmanager_wechat.git
+git clone git@github.com:shuaixiaoxin/prometheus_alertmanager_wechat.git
 cd prometheus_alertmanager_wechat
 ```
 2. 安装依赖
